@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Bonjour!</string>
-    <string name="thanks"></string>
+    <string name="Hello"></string>
+    <string name="Orangutan"></string>
+    <string name="Try Weblate"></string>
+    <string name="Thank you"></string>
 </resources>
