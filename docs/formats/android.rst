@@ -53,6 +53,12 @@ stored in a different location from the other files -- :file:`res/values/strings
     `Android string resources documentation <https://developer.android.com/guide/topics/resources/string-resource>`_,
     :doc:`tt:formats/android`
 
+Example file
++++++++++++++
+
+.. literalinclude:: ../../weblate/trans/tests/data/cs.xml
+    :language: xml
+
 Weblate configuration
 +++++++++++++++++++++
 
